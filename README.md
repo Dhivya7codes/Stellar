@@ -1,2 +1,2 @@
-# Stellar
-A collection of fundamental Java programs covering core concepts, logic building, and syntax mastery.
+# Stellar 
+This repository contains all the Java programs I wrote during the Stellar program, focusing on mastering core programming concepts, logic building, and syntax fluency. It includes basic to intermediate problems covering loops, conditionals, arrays, strings, functions, and OOP principles. Each file is structured for clarity and revision, making it a great resource to track my progress and revisit key concepts as I grow in my software development journey.
